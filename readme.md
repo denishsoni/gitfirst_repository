@@ -1,1 +1,1 @@
-My first git file to commit
+myfirst conflict my first git file to commit
